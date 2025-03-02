@@ -1,4 +1,4 @@
-My data science and machine learing project as a beginner 
+My data science and machine learning project as a beginner 
 
 A program that tracks your fitness performance volume🥊
 
