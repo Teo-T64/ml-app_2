@@ -7,7 +7,7 @@ The goal is to analyze which features impact performance and provide insights.
 ## 📊 Dataset & Features
 - **Source:** fitness.csv file in the above
 - **Key Features Used:** Heart Rate, Steps, Workout Duration, etc.
-- **Features with Low Impact:** VO2 Max, Calories Burned
+
 
 ## 🧠 Machine Learning Approach
 - Used **K-Means Clustering** to group users based on fitness levels.
