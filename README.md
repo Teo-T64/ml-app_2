@@ -1,7 +1,7 @@
 # Fitness Performance Tracker (K-Means Clustering)
 
 ## 🚀 Overview
-This project uses **K-Means clustering** to classify fitness performance into **high (1) and low (0)** categories based on a Kaggle dataset.  
+This project uses **K-Means clustering** to classify fitness performance into **low (1) and high (0)** categories based on a Kaggle dataset.  
 The goal is to analyze which features impact performance and provide insights.
 
 ## 📊 Dataset & Features
