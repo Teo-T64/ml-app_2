@@ -33,7 +33,7 @@ def get_user_input():
     return user_data
 
 def predict_fitness(user_data):
-    predictions = ["High fitness performance","Low fitness performance"]
+    predictions = ["Low fitness performance","High fitness performance"]
     
     prediction = model.predict(user_data)
     
