@@ -5,7 +5,7 @@ This project uses **K-Means clustering** to classify fitness performance into **
 The goal is to analyze which features impact performance and provide insights.
 
 ## 📊 Dataset & Features
-- **Source:** fitness.csv file in the 
+- **Source:** fitness.csv file in the above
 - **Key Features Used:** Heart Rate, Steps, Workout Duration, etc.
 - **Features with Low Impact:** VO2 Max, Calories Burned
 
