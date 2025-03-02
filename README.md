@@ -18,6 +18,6 @@ The goal is to analyze which features impact performance and provide insights.
 - Found that **steps,workout intensity,water & calories intake,age,BMI...** had more impact than other features.
 - Identified key differences between **high & low performance** groups.
 
-
+I'm a beginner in the field of machine learning & data science so suggestions on code improvements or fixes are welcome!
 
 
